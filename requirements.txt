@@ -1,0 +1,8 @@
+Flask==2.3.2
+torch>=2.0.1
+pandas==2.0.3
+numpy==1.25.2
+matplotlib==3.7.2
+
+
+
