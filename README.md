@@ -1,2 +1,11 @@
 # ML-app for network traffic forecasting.
-This project revolves around employing an LSTM model to forecast average network traffic. The implementation involves integrating the LSTM model within a Flask framework for deployment.
+Welcome to the Network Traffic Forecasting ML App! This project focuses on utilizing a powerful Long Short-Term Memory (LSTM) model to predict average network traffic. By leveraging machine learning techniques, we aim to provide accurate forecasts for network traffic patterns, enabling better resource allocation and planning.
+Table of Contents:
+Introduction
+Features
+Installation
+Usage
+Model Architecture
+Deployment
+Contributing
+License
