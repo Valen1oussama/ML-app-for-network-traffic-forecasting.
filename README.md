@@ -39,8 +39,7 @@ Network traffic forecasting plays a crucial role in optimizing network performan
       
    
 ## Testing:
-After you've successfully started the Flask application as described in the "Installation![Network-Traffic-Analysis](https://github.com/Valen1oussama/ML-app-for-network-traffic-forecasting./assets/106777178/d00e48de-1a69-4dcb-8ad9-8cfac6ab94ef)
-" section, keep the Flask app running in the background.
+After you've successfully started the Flask application as described in the "Installation" section, keep the Flask app running in the background.
 Open a new terminal window and navigate to the project directory and run test script.
 The test script will programmatically send a sample CSV file to the running Flask application and retrieve the predicted network traffic forecast.
 
