@@ -1,6 +1,7 @@
 # Network Traffic Forecasting ML App
 
-![Network Traffic](network_traffic_image.jpg) <!-- Add an appropriate image related to network traffic or the project -->
+![Network-Traffic-Analysis](https://github.com/Valen1oussama/ML-app-for-network-traffic-forecasting./assets/106777178/4f13e76b-3537-4621-af9c-f24146ea18d4)
+ <!-- Add an appropriate image related to network traffic or the project -->
 
 Welcome to the Network Traffic Forecasting ML App! This project focuses on utilizing a powerful Long Short-Term Memory (LSTM) model to predict average network traffic. By leveraging machine learning techniques, we aim to provide accurate forecasts for network traffic patterns, enabling better resource allocation and planning.
 
