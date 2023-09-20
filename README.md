@@ -1,4 +1,4 @@
-# Network Traffic Forecasting ML App
+# Network Traffic Forecasting API
 
 ![Network-Traffic-Analysis](https://github.com/Valen1oussama/ML-app-for-network-traffic-forecasting./assets/106777178/4f13e76b-3537-4621-af9c-f24146ea18d4)
  <!-- Add an appropriate image related to network traffic or the project -->
